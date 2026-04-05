@@ -13,6 +13,7 @@ A modern and user-friendly Resume Builder Web Application that allows users to c
 - Styling: CSS3 / Flexbox / Grid
 - Version Control: Git & GitHub
 # Project Structure
+```
 RESUME-BUILDER-PLATFORM/
 │
 ├── index.html          # Main entry page
@@ -32,6 +33,7 @@ RESUME-BUILDER-PLATFORM/
 ├── README.md           # Project description
 ├── .gitignore          # Ignore unnecessary files
 
+```
 # Screenshots
 
 # Future Enhancements
