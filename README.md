@@ -41,7 +41,7 @@ RESUME-BUILDER-PLATFORM/
 ![Screenshot](https://github.com/Deepika20027/RESUME-BUILDER-PLATFORM/blob/main/Screenshot%204.png)
 ![Screenshot](https://github.com/Deepika20027/RESUME-BUILDER-PLATFORM/blob/main/Screenshot%205.png)
 ![Screenshot](https://github.com/Deepika20027/RESUME-BUILDER-PLATFORM/blob/main/Screenshot%206.png)
-![Screenshot](https://github.com/Deepika20027/RESUME-BUILDER-PLATFORM/blob/main/Screenshpng)
+![Screenshot](https://github.com/Deepika20027/RESUME-BUILDER-PLATFORM/blob/main/Screenshot%207.png)
 
 
 
