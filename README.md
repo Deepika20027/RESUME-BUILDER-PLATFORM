@@ -35,7 +35,7 @@ RESUME-BUILDER-PLATFORM/
 
 ```
 # Screenshots
-"C:\Users\Iqbal\OneDrive\Pictures\Screenshot.png"
+![Resume Builder](screenshot.png)
 
 # Future Enhancements
 - User authentication (Login/Signup)
