@@ -35,6 +35,7 @@ RESUME-BUILDER-PLATFORM/
 
 ```
 # Screenshots
+"C:\Users\Iqbal\OneDrive\Pictures\Screenshot.png"
 
 # Future Enhancements
 - User authentication (Login/Signup)
