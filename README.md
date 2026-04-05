@@ -35,7 +35,7 @@ RESUME-BUILDER-PLATFORM/
 
 ```
 # Screenshots
-![Screenshot](https://github.com/Deepika20027/RESUME-BUILDER-PLATFORM/blob/main/screenshot.png)
+![Screenshot](https://github.com/Deepika20027/RESUME-BUILDER-PLATFORM/blob/main/Screenshot.png)
 
 # Future Enhancements
 - User authentication (Login/Signup)
