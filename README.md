@@ -35,7 +35,7 @@ RESUME-BUILDER-PLATFORM/
 
 ```
 # Screenshots
-![Resume Builder](screenshot.png)
+![Resume Builder](assets/screenshot.png)
 
 # Future Enhancements
 - User authentication (Login/Signup)
