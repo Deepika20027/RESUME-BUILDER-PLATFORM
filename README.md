@@ -3,7 +3,7 @@ A modern and user-friendly Resume Builder Web Application that allows users to c
 
 # Features
 
--Create and edit resumes in real-time
+- Create and edit resumes in real-time
 - Clean and responsive UI design
 - Multiple resume sections (Education, Skills, Experience)
 - Easy download / print option
@@ -14,11 +14,23 @@ A modern and user-friendly Resume Builder Web Application that allows users to c
 - Version Control: Git & GitHub
 # Project Structure
 RESUME-BUILDER-PLATFORM/
-│── index.html
-│── style.css
-│── script.js
-│── assets/
-🚀 How to Run Locally
+│
+├── index.html          # Main entry page
+├── style.css           # Main styling
+├── script.js           # Main JavaScript logic
+│
+├── assets/             # Images, icons, screenshots
+│   ├── screenshot.png
+│   ├── logo.png
+│
+├── css/ (optional)     # If you split styles
+│   └── styles.css
+│
+├── js/ (optional)      # If you split JS files
+│   └── app.js
+│
+├── README.md           # Project description
+├── .gitignore          # Ignore unnecessary files
 
 # Screenshots
 
