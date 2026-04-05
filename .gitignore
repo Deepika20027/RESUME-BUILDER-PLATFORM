@@ -1,0 +1,23 @@
+# Dependencies
+node_modules/
+
+# Next.js
+.next/
+
+# Environment variables
+.env
+.env*.local
+
+# Editor files
+.vscode/
+
+# OS files
+.DS_Store
+
+# Vercel
+.vercel/
+
+# v0 sandbox files
+.snowflake/
+.v0-trash/
+next.user-config.*
